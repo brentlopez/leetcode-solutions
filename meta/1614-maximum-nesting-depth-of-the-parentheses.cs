@@ -1,7 +1,7 @@
 // 1614. Maximum Nesting Depth of the Parentheses
 /*
  * Completion Time:
- *  Attempt 1: 4 minutes
+ *  Attempt 1: 4 minutes, TC: O(n), SC: O(1)
  *
 */
 
